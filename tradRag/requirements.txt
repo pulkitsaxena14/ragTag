@@ -1,0 +1,6 @@
+docling
+chromadb
+ollama
+rank-bm25
+sentence-transformers
+numpy
